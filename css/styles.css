@@ -1,4 +1,5 @@
 /* Color Palette */
+
 :root {
   --color-primary: #2584ff;
   --color-secondary: #00d9ff;
@@ -147,10 +148,29 @@ a {
   margin-bottom: 1rem;
 }
 
-  @media screen and {min-width: 1024px) {
-    .list--tick .list__item {
-      padding-left: 0;
-    }
+@media screen and (min-width: 1024px) {
+  .list--tick .list__item {
+    padding-left: 0;
   }
-    
-  
+}
+
+/* Icons */
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.icon--primary {
+  fill: var(--color-primary);
+}
+
+.icon-container {
+  background: #f3f9fa;
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
