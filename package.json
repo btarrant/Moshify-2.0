@@ -1,0 +1,23 @@
+{
+  "name": "moshify-2.0",
+  "version": "1.0.0",
+  "description": "This project helped refine my frontend development skills, utilizing HTML and CSS. This project also required Adobe Photoshop. I created a web mockup, which helped me create a cloud hosting website from scratch. Great exercise in building a static website from the bottom up and using components, to build the elements of the site.",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btarrant/Moshify-2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btarrant/Moshify-2.0/issues"
+  },
+  "homepage": "https://github.com/btarrant/Moshify-2.0#readme"
+}
