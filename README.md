@@ -4,4 +4,4 @@ This project helped refine my frontend development skills, utilizing HTML, CSS, 
 
 https://moshify-btarrant.netlify.app
 
-![alt text](http://ibb.co/7tmvZNj)
+<a href="https://ibb.co/7tmvZNj"><img src="https://i.ibb.co/234qCYW/Screen-Shot-2021-12-07-at-3-50-47-PM.png" alt="Screen-Shot-2021-12-07-at-3-50-47-PM" border="0"></a>
