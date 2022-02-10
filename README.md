@@ -4,4 +4,4 @@ This project helped refine my frontend development skills, utilizing HTML, CSS, 
 
 https://moshify-btarrant.netlify.app
 
-![alt text](https://ibb.co/7tmvZNj)
+![alt text](http://ibb.co/7tmvZNj)
